@@ -1,0 +1,5 @@
+if(EXISTS "/mnt/c/vika/leetcode/strings/string_compression/__build_gcc/string_compression_tests[1]_tests.cmake")
+  include("/mnt/c/vika/leetcode/strings/string_compression/__build_gcc/string_compression_tests[1]_tests.cmake")
+else()
+  add_test(string_compression_tests_NOT_BUILT string_compression_tests_NOT_BUILT)
+endif()

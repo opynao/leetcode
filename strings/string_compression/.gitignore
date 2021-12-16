@@ -1,3 +1,2 @@
 __build/
-__build_clang/
-__build_gcc/
+.vscode

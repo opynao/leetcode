@@ -1,0 +1,1 @@
+/usr/bin/g++-11  -O0 -pedantic -pedantic-errors -w -Wextra -Wall -Waddress CMakeFiles/string_compression.dir/main.cpp.o -o string_compression  libstring_compression_lib.a -lpthread 
