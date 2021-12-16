@@ -1,6 +1,0 @@
-/mnt/c/vika/leetcode/strings/string_compression/__build_gcc/CMakeFiles/string_compression_lib.dir
-/mnt/c/vika/leetcode/strings/string_compression/__build_gcc/CMakeFiles/string_compression.dir
-/mnt/c/vika/leetcode/strings/string_compression/__build_gcc/CMakeFiles/string_compression_tests.dir
-/mnt/c/vika/leetcode/strings/string_compression/__build_gcc/CMakeFiles/test.dir
-/mnt/c/vika/leetcode/strings/string_compression/__build_gcc/CMakeFiles/edit_cache.dir
-/mnt/c/vika/leetcode/strings/string_compression/__build_gcc/CMakeFiles/rebuild_cache.dir

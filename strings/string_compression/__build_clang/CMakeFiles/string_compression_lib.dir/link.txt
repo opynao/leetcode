@@ -1,2 +1,0 @@
-/usr/bin/ar qc libstring_compression_lib.a CMakeFiles/string_compression_lib.dir/src/string_compression.cpp.o CMakeFiles/string_compression_lib.dir/src/utils.cpp.o
-/usr/bin/ranlib libstring_compression_lib.a
