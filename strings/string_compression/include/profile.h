@@ -2,8 +2,8 @@
 #include <chrono>
 
 template <class TimeT = std::chrono::milliseconds,
-          class ClockT = std::chrono::high_resolution_clock>
-// steady clock
+          class ClockT = std::chrono::high_resolution_clock >
+          //steady clock
 struct profiler
 {
     template <class F, class... Args>
